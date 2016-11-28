@@ -1,0 +1,23 @@
+{
+  "name": "hypnosis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virgilvox/hypnosis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virgilvox/hypnosis/issues"
+  },
+  "homepage": "https://github.com/virgilvox/hypnosis#readme",
+  "dependencies": {
+    "applause": "^1.2.2",
+    "cli": "^1.0.1"
+  }
+}
