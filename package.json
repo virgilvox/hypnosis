@@ -1,6 +1,6 @@
 {
   "name": "hypnosis",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,7 @@
   "homepage": "https://github.com/virgilvox/hypnosis#readme",
   "dependencies": {
     "applause": "^1.2.2",
-    "cli": "^1.0.1"
+    "cli": "^1.0.1",
+    "exec": "^0.2.1"
   }
 }
