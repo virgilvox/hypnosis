@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var cli = require('cli');
 var exec = require('exec');
 var scripts = require('./scripts.json')
